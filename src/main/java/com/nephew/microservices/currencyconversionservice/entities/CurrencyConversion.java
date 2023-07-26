@@ -1,4 +1,4 @@
-package com.nephew.microservices.currencyconversionservice.resource.entities;
+package com.nephew.microservices.currencyconversionservice.entities;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;
