@@ -1,1 +1,1 @@
-This microservice communicates with the currency-exchange-service. 
+This microservice communicates with the currency-exchange-service.  
